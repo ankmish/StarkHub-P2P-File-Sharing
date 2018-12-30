@@ -1,7 +1,4 @@
-/* 
-    Author : Aayush Chauhan
-    MNNIT , Allahabad
- */
+ 
 package central_server;
 
 import java.io.IOException;
@@ -10,11 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.HashMap;
 import java.util.HashSet;
-
-/**
- *
- * @author aayushshivam7
- */
+ 
 public class WaitingServer {
 
     HashSet<InetAddress> activeCreators;                               // list of active content providers
