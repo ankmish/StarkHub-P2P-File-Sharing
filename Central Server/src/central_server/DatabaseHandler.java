@@ -6,11 +6,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
-/**
- *
- * @author aayushshivam7
- */
+ 
 // handle all queries to database 
 public class DatabaseHandler {
 
