@@ -1,7 +1,4 @@
-/* 
-    Author : Aayush Chauhan
-    MNNIT , Allahabad
-*/
+
 package central_server;
 
 import com.mysql.jdbc.Connection;
