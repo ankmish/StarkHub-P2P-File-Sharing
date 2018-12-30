@@ -5,10 +5,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author aayushshivam7
- */
+ 
 public class Central_Server {
 
     /**
