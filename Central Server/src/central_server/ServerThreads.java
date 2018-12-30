@@ -1,7 +1,4 @@
-/* 
-    Author : Aayush Chauhan
-    MNNIT , Allahabad
- */
+
 package central_server;
 
 import java.io.BufferedReader;
@@ -12,11 +9,7 @@ import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
 import java.sql.SQLException;
-
-/**
- *
- * @author aayushshivam7
- */
+ 
 public class ServerThreads extends Thread {
 
     Socket socket;
