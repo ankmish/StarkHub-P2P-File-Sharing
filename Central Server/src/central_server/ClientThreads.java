@@ -14,10 +14,7 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.util.Map;
 
-/**
- *
- * @author aayushshivam7
- */
+
 public class ClientThreads extends Thread {
 
     Socket socket;
