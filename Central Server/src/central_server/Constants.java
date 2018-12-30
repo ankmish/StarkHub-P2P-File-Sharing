@@ -5,10 +5,7 @@
  */
 package central_server;
 
-/**
- *
- * @author aayushshivam7
- */
+ 
 public final class Constants {
    
     public final static String DATABASE = "Server_Data" ;
