@@ -1,5 +1,4 @@
 # StarkHub
-     Peer-to-peer Streaming Software using RTSP protocol .
 
 #### How it works : <br />
      1. A central server is used for user authentication . 
